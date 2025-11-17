@@ -1,0 +1,19 @@
+# --- Dependencias (Nunca subir) ---
+node_modules/
+
+# --- Compilación (Nunca subir) ---
+dist/
+build/
+out/
+
+# --- Sistema y Logs ---
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# --- IDEs ---
+.vscode/
+.idea/
+*.swp
