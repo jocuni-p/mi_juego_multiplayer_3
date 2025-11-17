@@ -1,5 +1,7 @@
 # 🏓 Multiplayer Game - Como paso previo al Pong de Transcendence
 
+**NOTA IMPORTANTE: Todo el codigo lo he desarrollado con la IA para que podamos entender, de forma algo mas sencilla, que puede representar hacer el Transcendence.**
+
 Un juego multijugador en tiempo real desarrollado con **Node.js (Fastify)**, **WebSockets**, **Vite** y **TypeScript**.
 
 ## Requisitos
