@@ -6,8 +6,8 @@ Un juego multijugador en tiempo real desarrollado con **Node.js (Fastify)**, **W
 
 ## Requisitos
 
-* **Node.js** (v18 o superior recomendado)
-* **npm**
+* **Node.js** (v18 o superior recomendado). Si aún no lo tienes, instálalo.
+* **npm**  Suele venir con Node. Verificalo.
 * **Make** (normalmente preinstalado en Mac/Linux)
 
 ---
